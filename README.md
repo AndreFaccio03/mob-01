@@ -1,14 +1,8 @@
-Aqui está um modelo de `README.md` estruturado exatamente para o seu projeto. Ele foi redigido com um tom claro e profissional, destacando os pontos que a professora avaliará e explicando como rodar o aplicativo de forma à prova de falhas (incluindo a explicação do erro de notificação que discutimos, para que ela não tire pontos por isso).
-
-Basta copiar o conteúdo abaixo e salvar como `README.md` na raiz do seu projeto.
-
----
-
 Trabalho 2 - Avaliação de Ferramentas de IA para Geração de Código-Fonte 
 
 **Disciplina:** Ecossistema de Ferramentas de IA: Uso Crítico e Aplicações 
-**Professora:** Dra. Liana Duenha **Grupo:** Francisco e André **Problema Escolhido:** MOB-01 - Hábitos/rotina com notificações e métricas 
-
+**Professora:** Dra. Liana Duenha **Grupo:** Ana Mel, André e Francisco **Problema Escolhido:** MOB-01 - Hábitos/rotina com notificações e métricas 
+**Este é o Repositório do André**
 ---
 
 ## 📱 Sobre o Projeto
